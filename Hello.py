@@ -1,1 +1,1 @@
-print "Panel"
+print "Hello World"
